@@ -1,0 +1,8 @@
+{
+  "id": "stacklands_coop",
+  "name": "Stacklands Co-op (联机)",
+  "version": "0.4.4",
+  "assembly": "StacklandsCoop.dll",
+  "dependencies": [],
+  "optionalDependencies": []
+}

@@ -1,0 +1,22 @@
+# 构建产物
+bin/
+obj/
+dist/
+.build/
+
+# 自检日志（selftest-*.ps1 在项目根下写这里）
+.selftest/
+
+# 本地设计笔记与发布记录（不对外）
+docs/
+
+# 只对本机有意义的一次性工具
+tools/backup.ps1
+tools/make_icon.py
+tools/make_cover.py
+
+# 运行时与 IDE 残留
+imgui.ini
+*.user
+*.suo
+.vs/
